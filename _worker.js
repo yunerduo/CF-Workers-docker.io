@@ -315,7 +315,7 @@ async function searchInterface() {
 					</svg>
 				</button>
 			</div>
-			<p class="tips">研发内部使用，请勿外传! 提示：按回车键快速搜索</p>
+			<p class="tips">提示：研发内部使用，请勿外传! </p>
 		</div>
 		<script>
 		function performSearch() {
